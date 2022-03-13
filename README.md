@@ -1,1 +1,1 @@
-how to program in c
+ this is a learning on the language of c
