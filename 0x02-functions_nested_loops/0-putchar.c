@@ -8,7 +8,7 @@ int main(void)
 {
 	char yada[] = "_putchar";
 
-	int c:
+	int c;
 	
 	for (c=0; c < 8; c++)
 	{
@@ -16,3 +16,4 @@ int main(void)
 	}
 	_putchar('\n');
 	return (0);
+}
