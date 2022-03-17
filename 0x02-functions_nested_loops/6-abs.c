@@ -3,7 +3,7 @@
  * _abs -function that prints the absolute value of a number
  * @n: takes in an integer
  * Return: if > 0, 0 if == 0, posetive if negative
- * */
+ **/
 int _abs(int n)
 {
 	if (n < 0)
