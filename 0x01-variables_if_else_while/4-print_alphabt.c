@@ -17,6 +17,5 @@ int main(void)
 	putchar(c);
 	for (c = 'r'; c <= 'z'; ++c)
 	putchar(c);
-	putchar('\n');
 	return (0);
 }
