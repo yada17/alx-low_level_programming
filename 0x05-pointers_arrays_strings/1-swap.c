@@ -6,6 +6,6 @@
  */
 void swap_ubt(int *a, int *b)
 {
-	int *a = b;
-	int *b = a;
-
+	*a = b;
+	*b = a;
+}
