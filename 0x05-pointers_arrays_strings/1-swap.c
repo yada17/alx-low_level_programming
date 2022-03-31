@@ -4,7 +4,7 @@
  *
  * Return; The value of the swap
  */
-void swap_ubt(int *a, int *b)
+void swap_int(int *a, int *b)
 {
 	*a = b;
 	*b = a;
